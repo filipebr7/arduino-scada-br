@@ -11,8 +11,8 @@ Find the original project on SF:
 Documentation: [Wiki-SF](https://sourceforge.net/p/scadabr/wiki/Home/)
 
 Site: 
-[ScadaBR] (http://www.scadabr.com.br/)
-[ScadaLTS] (http://scada-lts.org/)
+[ScadaBR](http://www.scadabr.com.br/)
+[ScadaLTS](http://scada-lts.org/)
 
 
 ### Start do docker
